@@ -1,12 +1,16 @@
 ### Hi , I'm Teleki Tibi 👋
 
-- 🌎 I'm from Brasov, Romania
+🌍 Based in Brașov, Romania
 
-- 🎓 I’m currently working on IoT Biometric Fingerprint Attendance System using NodeMCU
+🎓 Graduated with a Master's Degree in Integrated Electronic and Communication Systems from Transilvania University of Brasov
 
-- 🤓 I’m currently learning Arduino and C
+💻 Skilled in programming (C, C++, Java, Python, HTML, CSS), circuit design, and embedded systems
 
-- 📫 For questions or collaborations, you can contact me at telekitibi21@gmail.com
+🤝 Experienced in teamwork, customer communication, and technical support
+
+🚀 Passionate about electronics, green energy, and intelligent systems development
+
+📫 Contact me: telekitibi21@gmail.com
 
 <br>
 
